@@ -1,3 +1,6 @@
+#32. Formatação de strings com o método format
+
+
 a = 'AAAAA'
 b = 'BBBBBB'
 c = 1.1
