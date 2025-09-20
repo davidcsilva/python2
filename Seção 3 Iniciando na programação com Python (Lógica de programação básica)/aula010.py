@@ -1,3 +1,6 @@
+#27. Concatenação (+) e repetição (*) com operadores aritméticos
+
+
 concatenacao = 'Luiz' + ' ' + 'Otávio'
 print(concatenacao)
 
