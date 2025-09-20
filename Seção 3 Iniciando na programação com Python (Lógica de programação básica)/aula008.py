@@ -1,4 +1,4 @@
-#23. Introdução às variáveis em Python
+#25. Solução - exercício com variáveis e tipos de dados
 
 
 nome = 'Luiz Otávio'
