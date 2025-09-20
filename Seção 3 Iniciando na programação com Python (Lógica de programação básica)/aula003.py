@@ -4,6 +4,9 @@ Python = Linguagem de programação
 Tipo de tipagem = Dinâmica / Forte
 str -> string -> texto
 Strings são textos que estão dentro de aspas
+
+19. Tipo str (string) - Introdução aos tipos de dados
+
 """
 print(1234)
 
