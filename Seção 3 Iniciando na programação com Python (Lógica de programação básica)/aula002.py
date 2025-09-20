@@ -1,3 +1,8 @@
+'''
+18. A função print
+
+'''
+
 # \r\n -> CRLF
 # \n -> LF
 print(12, 34, 1011, sep="", end='#')
