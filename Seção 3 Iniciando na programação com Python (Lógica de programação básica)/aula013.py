@@ -15,3 +15,4 @@ print(linha_3)
 # Luiz Otávio tem 1.80 de altura,
 # pesa 95 quilos e seu IMC é
 # 29.320987654320987
+#31. Uma introdução às f-strings (formatação de strings)
