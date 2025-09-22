@@ -40,7 +40,9 @@
 <p> git branch -M main
 <p> git remote add origin https://github.com/davidcsilva/python2.git
 <p> git push -u origin main
+
 # …or push an existing repository from the command line
+
 <p> git remote add origin https://github.com/davidcsilva/python2.git
 <p> git branch -M main
 <p> git push -u origin main
