@@ -32,7 +32,7 @@
 <p>git push -u origin --all
 <p>git push -u origin --tags
 
-#…or create a new repository on the command line
+# …or create a new repository on the command line
 <p> echo "# python2" >> README.md
 <p> git init
 <p> git add README.md
@@ -40,7 +40,9 @@
 <p> git branch -M main
 <p> git remote add origin https://github.com/davidcsilva/python2.git
 <p> git push -u origin main
-#…or push an existing repository from the command line
+
+# …or push an existing repository from the command line
+
 <p> git remote add origin https://github.com/davidcsilva/python2.git
 <p> git branch -M main
 <p> git push -u origin main
